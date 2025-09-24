@@ -1,1 +1,2 @@
-# cinema-project
+# cinema-шапка
+ИС-23-3 проект
